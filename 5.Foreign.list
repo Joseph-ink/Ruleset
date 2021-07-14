@@ -1278,3 +1278,11 @@ DOMAIN,lens.l.google.com
 DOMAIN-SUFFIX,telesco.pe
 IP-CIDR,91.108.20.0/22,no-resolve
 IP-CIDR,95.161.64.0/20,no-resolve
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+DOMAIN-SUFFIX,youtube.com
+DOMAIN,youtubei.googleapis.com
+USER-AGENT,*youtube*
+DOMAIN-KEYWORD,youtube
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,gvt2.com
