@@ -16,6 +16,7 @@ GEOIP,EU // Europe, EU
 GEOIP,FI // Finland, EU
 GEOIP,FO // Faroe Islands, EU
 GEOIP,FR // France, EU
+GEOIP,FX // France, Metropolitan, EU
 GEOIP,GB // United Kingdom, EU
 GEOIP,GG // Guernsey, EU
 GEOIP,GI // Gibraltar, EU
@@ -51,4 +52,3 @@ GEOIP,SM // San Marino, EU
 GEOIP,TR // Turkey, EU
 GEOIP,UA // Ukraine, EU
 GEOIP,VA // Holy See (Vatican City State), EU
-GEOIP,FX // France, Metropolitan, EU
