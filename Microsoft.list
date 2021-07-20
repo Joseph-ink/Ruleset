@@ -52,4 +52,5 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxservices.com
+PROCESS-NAME,OneDrive
 USER-AGENT,OneDrive*
