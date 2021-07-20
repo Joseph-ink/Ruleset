@@ -844,7 +844,6 @@ DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,tablesgenerator.com
 DOMAIN-SUFFIX,tabtter.jp
@@ -856,7 +855,6 @@ DOMAIN-SUFFIX,tapatalk.com
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
 DOMAIN-SUFFIX,target.com
-DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
@@ -864,10 +862,6 @@ DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,teco-hk.org
 DOMAIN-SUFFIX,teco-mo.org
 DOMAIN-SUFFIX,teddysun.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tfhub.dev
@@ -931,7 +925,6 @@ DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
-DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,typcn.com
 DOMAIN-SUFFIX,typekit.net
@@ -1124,7 +1117,6 @@ IP-CIDR,103.2.31.0/24,no-resolve
 IP-CIDR,103.246.56.0/22,no-resolve
 IP-CIDR,103.27.148.0/22,no-resolve
 IP-CIDR,103.4.96.0/22,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,110.76.140.0/22,no-resolve
 IP-CIDR,113.61.104.0/22,no-resolve
 IP-CIDR,119.235.224.0/21,no-resolve
@@ -1155,7 +1147,6 @@ IP-CIDR,147.92.133.0/24,no-resolve
 IP-CIDR,147.92.134.0/24,no-resolve
 IP-CIDR,147.92.135.0/24,no-resolve
 IP-CIDR,147.92.248.0/21,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,157.240.0.0/17,no-resolve
 IP-CIDR,169.45.248.118/32,no-resolve
 IP-CIDR,17.252.156.147/24,no-resolve
@@ -1239,17 +1230,6 @@ IP-CIDR,74.119.76.0/22,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,74.86.0.0/16,no-resolve
 IP-CIDR,75.126.0.0/16,no-resolve
-IP-CIDR,91.108.0.0/16,no-resolve
-IP-CIDR,91.108.12.0/22,no-resolve
-IP-CIDR,91.108.16.0/22,no-resolve
-IP-CIDR,91.108.20.0/22,no-resolve
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,91.108.8.0/22,no-resolve
-IP-CIDR,95.161.64.0/20,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2400:dcc0::/32,no-resolve
 PROCESS-NAME,Backup and Sync
 PROCESS-NAME,LookupViewService
