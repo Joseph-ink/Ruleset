@@ -12,3 +12,13 @@
 基本上可以满足访问需求，并且没有奇奇怪怪的问题
 
 或者请使用DoH
+
+DNSpod
+```
+doh.pub/dns-query
+```
+
+Aliyun
+```
+dns.alidns.com/dns-query
+```
