@@ -1,7 +1,4 @@
-AND,((NOT,((USER-AGENT,*com.apple.WebKit*))), (USER-AGENT,*com.apple.*))
-DOMAIN,safebrowsing.googleapis.com
-DOMAIN,safebrowsing.urlsec.qq.com
-DOMAIN,tv.applemusic.com
+DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,icloud
 DOMAIN-KEYWORD,smp-device
 DOMAIN-KEYWORD,testflight
@@ -20,8 +17,10 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cdn20.com
 DOMAIN-SUFFIX,crashlytics.com
@@ -35,6 +34,8 @@ DOMAIN-SUFFIX,mwcloudcdn.com
 DOMAIN-SUFFIX,mwcname.com
 DOMAIN-SUFFIX,mylcloud.net
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,safebrowsing.urlsec.qq.com
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
 IP-CIDR,144.178.36.0/22,no-resolve
@@ -79,3 +80,4 @@ USER-AGENT,fmflocatord*
 USER-AGENT,geod*
 USER-AGENT,locationd*
 USER-AGENT,passd*
+AND,((NOT,((USER-AGENT,*com.apple.WebKit*))), (USER-AGENT,*com.apple.*))
