@@ -1,6 +1,4 @@
-DOMAIN,yt3.ggpht.com
 DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn.net
@@ -29,13 +27,11 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,kh.google.com
 DOMAIN-SUFFIX,khm.google.com
@@ -56,11 +52,8 @@ DOMAIN-SUFFIX,tools.google.com
 DOMAIN-SUFFIX,tools.l.google.com
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
 IP-CIDR,108.177.125.188/32,no-resolve
 IP-CIDR,120.232.181.162/32,no-resolve
 IP-CIDR,120.241.147.226/32,no-resolve
@@ -107,10 +100,3 @@ IP-CIDR,74.125.206.188/32,no-resolve
 IP-CIDR,74.125.23.188/32,no-resolve
 IP-CIDR,74.125.24.188/32,no-resolve
 IP-CIDR,74.125.28.188/32,no-resolve
-USER-AGENT,*YouTubeMusic*
-USER-AGENT,*com.google.ios.youtubemusic*
-USER-AGENT,*youtube*
-USER-AGENT,YouTube*
-USER-AGENT,YouTubeMusic*
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,com.google.ios.youtubemusic*
