@@ -11,8 +11,10 @@
 
 ```
 # DNSpod
-doh.pub/dns-query
+https://doh.pub/dns-query
+```
 
+```
 # Aliyun
-dns.alidns.com/dns-query
+https://dns.alidns.com/dns-query
 ```
