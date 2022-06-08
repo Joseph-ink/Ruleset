@@ -1,0 +1,21 @@
+payload:
+  - DOMAIN-SUFFIX,hiwifi.com
+  - DOMAIN-SUFFIX,ip6-localhost
+  - DOMAIN-SUFFIX,ip6-loopback
+  - DOMAIN-SUFFIX,local
+  - DOMAIN-SUFFIX,localhost
+  - DOMAIN-SUFFIX,miwifi.com
+  - DOMAIN-SUFFIX,my.router
+  - DOMAIN-SUFFIX,router.ctc
+  - DOMAIN-SUFFIX,routerlogin.com
+  - DOMAIN-SUFFIX,tendawifi.com
+  - DOMAIN-SUFFIX,zte.home
+  - DOMAIN,analytics.strava.com
+  - DOMAIN,app.adjust.com
+  - DOMAIN,bdtj.tagtic.cn
+  - DOMAIN,errlog.umeng.com
+  - DOMAIN,instant.arubanetworks.com
+  - DOMAIN,picanalysis.vivo.com.cn
+  - DOMAIN,router.asus.com
+  - DOMAIN,setmeup.arubanetworks.com
+  - DOMAIN,xivanalysis.com
