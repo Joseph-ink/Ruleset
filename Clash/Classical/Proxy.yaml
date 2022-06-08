@@ -1,5 +1,4 @@
 payload:
-# MyList && Other
   - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,adguard.org
   - DOMAIN-SUFFIX,bit.no.com
@@ -20,7 +19,6 @@ payload:
   - DOMAIN-SUFFIX,tumbex.com
   - DOMAIN-SUFFIX,twdvd.com
   - DOMAIN-SUFFIX,unsplash.com
-# 国外域名
   - DOMAIN-SUFFIX,eu
   - DOMAIN-SUFFIX,hk
   - DOMAIN-SUFFIX,jp
@@ -29,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,tw
   - DOMAIN-SUFFIX,uk
   - DOMAIN-SUFFIX,us
-# 国外域名关键字
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,abema
   - DOMAIN-KEYWORD,appledaily
@@ -45,7 +42,6 @@ payload:
   - DOMAIN-KEYWORD,sci-hub
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,whatsapp
-# GFW list
   - DOMAIN-SUFFIX,gfwlist.start
   - DOMAIN-SUFFIX,000webhost.com
   - DOMAIN-SUFFIX,030buy.com
@@ -5521,7 +5517,6 @@ payload:
   - DOMAIN-SUFFIX,zzcloud.me
   - DOMAIN-SUFFIX,zzux.com
   - DOMAIN-SUFFIX,gfwlist.end
-# Amazon
   - IP-CIDR,13.32.0.0/15,no-resolve
   - IP-CIDR,13.35.0.0/17,no-resolve
   - IP-CIDR,18.184.0.0/15,no-resolve
@@ -5537,10 +5532,8 @@ payload:
   - IP-CIDR,54.156.0.0/14,no-resolve
   - IP-CIDR,54.226.0.0/15,no-resolve
   - IP-CIDR,54.230.156.0/22,no-resolve
-# BBC
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-SUFFIX,bbc.co
-# Developer 开发者常用国外网站、镜像和论坛
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,elastic.co
@@ -5556,10 +5549,8 @@ payload:
   - DOMAIN-SUFFIX,sourcegraph.com
   - DOMAIN-SUFFIX,spring.io
   - DOMAIN-SUFFIX,spring.net
-# Discord
   - DOMAIN-SUFFIX,discord.co
   - DOMAIN-SUFFIX,discord.media
-# Facebook
   - IP-CIDR,31.13.24.0/21,no-resolve
   - IP-CIDR,31.13.64.0/18,no-resolve
   - IP-CIDR,45.64.40.0/22,no-resolve
@@ -5574,9 +5565,7 @@ payload:
   - IP-CIDR,179.60.192.0/22,no-resolve
   - IP-CIDR,185.60.216.0/22,no-resolve
   - IP-CIDR,204.15.20.0/22,no-resolve
-# Instagram
   - DOMAIN-SUFFIX,instagr.am
-# Kakao Talk
   - DOMAIN-SUFFIX,kakao.co.kr
   - DOMAIN-SUFFIX,kakaocdn.net
   - IP-CIDR,1.201.0.0/24,no-resolve
@@ -5585,7 +5574,6 @@ payload:
   - IP-CIDR,103.246.56.0/22,no-resolve
   - IP-CIDR,110.76.140.0/22,no-resolve
   - IP-CIDR,113.61.104.0/22,no-resolve
-# Line
   - DOMAIN-SUFFIX,lin.ee
   - DOMAIN-SUFFIX,line-cdn.net
   - DOMAIN-SUFFIX,line.naver.jp
@@ -5598,7 +5586,6 @@ payload:
   - IP-CIDR,119.235.236.0/23,no-resolve
   - IP-CIDR,147.92.128.0/17,no-resolve
   - IP-CIDR,203.104.128.0/19,no-resolve
-# Porn
   - DOMAIN-SUFFIX,8teenxxx.com
   - DOMAIN-SUFFIX,ahcdn.com
   - DOMAIN-SUFFIX,bcvcdn.com
@@ -5609,22 +5596,15 @@ payload:
   - DOMAIN-SUFFIX,sb-cd.com
   - DOMAIN-SUFFIX,xnxx-cdn.com
   - DOMAIN-SUFFIX,ypncdn.com
-# Pixiv
-# Spark
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,hockeyapp.net
   - DOMAIN-SUFFIX,readdle.com
-# TapTap
   - DOMAIN-SUFFIX,tap.io
   - DOMAIN-SUFFIX,taptap.tw
-# Twitch
   - DOMAIN-KEYWORD,ttvnw
-# Twitter
   - DOMAIN-SUFFIX,twimg.co
   - DOMAIN-SUFFIX,twimg.org
-# TeraBox
   - DOMAIN-SUFFIX,teraboxcdn.com
-# Whatsapp
   - IP-CIDR,34.224.0.0/12,no-resolve
   - IP-CIDR,54.242.0.0/15,no-resolve
   - IP-CIDR,50.22.198.204/30,no-resolve
@@ -5639,16 +5619,13 @@ payload:
   - IP-CIDR,158.85.224.160/27,no-resolve
   - IP-CIDR,75.126.150.0/16,no-resolve
   - IP-CIDR,69.171.235.0/16,no-resolve
-# Wikipedia 维基相关域名
   - DOMAIN-SUFFIX,mediawiki.org
   - DOMAIN-SUFFIX,wikibooks.org
   - DOMAIN-SUFFIX,wikidata.org
   - DOMAIN-SUFFIX,wikiversity.org
   - DOMAIN-SUFFIX,wikivoyage.org
   - DOMAIN-SUFFIX,wiktionary.org
-#飞流直播
   - DOMAIN-SUFFIX,neulion.com
   - DOMAIN-SUFFIX,icntv.xyz
   - DOMAIN-SUFFIX,flzbcdn.xyz
-#华文电视
   - DOMAIN-SUFFIX,ocnttv.com
