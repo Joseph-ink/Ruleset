@@ -17,6 +17,7 @@ payload:
   - PROCESS-NAME,NetTransport
   - PROCESS-NAME,NetTransport.exe
   - PROCESS-NAME,NutstoreJavaBE
+  - PROCESS-NAME,ping
   - PROCESS-NAME,privoxy
   - PROCESS-NAME,privoxy.exe
   - PROCESS-NAME,qBittorrent
