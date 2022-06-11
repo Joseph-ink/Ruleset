@@ -12,6 +12,7 @@ payload:
   - PROCESS-NAME,Folx
   - PROCESS-NAME,leaf
   - PROCESS-NAME,leaf.exe
+  - PROCESS-NAME,Microsoft Remote Desktop
   - PROCESS-NAME,naive
   - PROCESS-NAME,naive.exe
   - PROCESS-NAME,NetTransport
