@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN-KEYWORD,apple-support.akadns.net
-  - DOMAIN-KEYWORD,apple.com.edgekey.net
   - DOMAIN-KEYWORD,icloud
   - DOMAIN-KEYWORD,icoudo
   - DOMAIN-KEYWORD,smp-device
@@ -51,10 +49,11 @@ payload:
   - DOMAIN-SUFFIX,nexttv.com.tw
   - DOMAIN-SUFFIX,safebrowsing.apple
   - DOMAIN-SUFFIX,sharpdaily.tw
+  - DOMAIN-SUFFIX,waqi.info
   - DOMAIN,apple-events.akamaized.net
+  - DOMAIN,apple-finance.query.yahoo.com
   - DOMAIN,apple.comscoreresearch.com
   - DOMAIN,safebrowsing.googleapis.com
-  - DOMAIN,safebrowsing.urlsec.qq.com
   - PROCESS-NAME,com.apple.geod
   - PROCESS-NAME,lookupviewservice
   - PROCESS-NAME,LookupViewService
