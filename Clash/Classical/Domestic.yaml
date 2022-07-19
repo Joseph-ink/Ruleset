@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,mam.netease.com
   - DOMAIN-SUFFIX,music.163.com
   - DOMAIN-SUFFIX,music.163.com.163jiasu.com
+  - DOMAIN-SUFFIX,oracle-speedtest.com
   - IP-CIDR,39.105.63.80/32
   - IP-CIDR,39.105.175.128/32
   - IP-CIDR,45.254.48.1/32
