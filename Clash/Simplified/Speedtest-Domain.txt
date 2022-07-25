@@ -1,5 +1,5 @@
 payload:
-    - '+.speedtest.net'
-    - '+.fast.com'
-    - '+.ooklaserver.net'
-    - '+.speed.cloudflare.com'
+  - '+.speedtest.net'
+  - '+.fast.com'
+  - '+.ooklaserver.net'
+  - '+.speed.cloudflare.com'
