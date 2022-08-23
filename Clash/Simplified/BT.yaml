@@ -1,0 +1,16 @@
+payload:
+  - PROCESS-NAME,BitComet.exe
+  - PROCESS-NAME,DownloadService
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,fdm.exe
+  - PROCESS-NAME,NetTransport
+  - PROCESS-NAME,NetTransport.exe
+  - PROCESS-NAME,qBittorrent
+  - PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,Transmission
+  - PROCESS-NAME,transmission-daemon.exe
+  - PROCESS-NAME,transmission-qt.exe
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,uTorrent.exe
+  - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,WebTorrent.exe
