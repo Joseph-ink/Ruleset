@@ -14,3 +14,4 @@ payload:
   - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,WebTorrent
   - PROCESS-NAME,WebTorrent.exe
+  - PROCESS-NAME,Resilio Sync
