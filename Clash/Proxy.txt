@@ -6,6 +6,7 @@ payload:
   - '+.00006809.com'
   - '+.00007398.com'
   - '+.0000gz.com'
+  - '+.v2rayssr.com'
   - '+.000234.com'
   - '+.000aa.com'
   - '+.000webhost.com'
