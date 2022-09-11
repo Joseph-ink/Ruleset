@@ -363,6 +363,7 @@ payload:
   - '+.onedns.net'
   - '+.onlinedown.net'
   - '+.open.cd'
+  - '+.oracle-speedtest.com'
   - '+.oracle.com'
   - '+.oschina.net'
   - '+.ourbits.club'
