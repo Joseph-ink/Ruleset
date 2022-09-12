@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotifycdn.net
 PROCESS-NAME,Spotify
 PROCESS-NAME,Spotify Helper
+PROCESS-NAME,/Applications/Spotify.app/Contents/MacOS/Spotify
+PROCESS-NAME,/Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper

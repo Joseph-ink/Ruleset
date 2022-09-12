@@ -1,3 +1,6 @@
 PROCESS-NAME,APTV
+PROCESS-NAME,/Applications/APTV.app/Contents/MacOS/APTV
 PROCESS-NAME,GSE SMART IPTV
+PROCESS-NAME,/Applications/GSE SMART IPTV.app/Contents/MacOS/GSE SMART IPTV
 PROCESS-NAME,Kodi
+PROCESS-NAME,/Applications/Kodi.app/Contents/MacOS/Kodi
