@@ -53,6 +53,11 @@ DOMAIN,apple-events.akamaized.net
 DOMAIN,apple-finance.query.yahoo.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,safebrowsing.googleapis.com
+PROCESS-NAME,/System/Applications/FindMy.app/Contents/MacOS/FindMy
+PROCESS-NAME,/System/Applications/Music.app/Contents/MacOS/Music
+PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News
+PROCESS-NAME,/System/Applications/App Store.app/Contents/MacOS/App Store
+PROCESS-NAME,/System/Applications/TV.app/Contents/MacOS/TV
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,lookupviewservice
 PROCESS-NAME,LookupViewService
