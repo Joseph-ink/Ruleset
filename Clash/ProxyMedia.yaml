@@ -66,6 +66,9 @@ payload:
 # Deezer
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dzcdn.net
+# Digitalconcerthall
+  - DOMAIN-SUFFIX,digitalconcerthall.com
+  - DOMAIN,world-vod.dchdns.net
 # DiscoveryPlus
   - DOMAIN-SUFFIX,disco-api.com
   - DOMAIN-SUFFIX,discovery.com
