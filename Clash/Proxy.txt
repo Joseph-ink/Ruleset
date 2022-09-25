@@ -17727,7 +17727,6 @@ payload:
   - '+.mypearsonenglish.ch'
   - '+.mypets.ws'
   - '+.mypicture.info'
-  - '+.mypikpak.com'
   - '+.myplan.powayusd.com'
   - '+.mypop3.net'
   - '+.mypop3.org'
