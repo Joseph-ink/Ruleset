@@ -1,5 +1,5 @@
 payload:
-  - '+.mypikpak.com'
+  - DOMAIN-SUFFIX,mypikpak.com
   - PROCESS-NAME,BitComet.exe
   - PROCESS-NAME,DownloadService
   - PROCESS-NAME,fdm
