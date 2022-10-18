@@ -15,3 +15,4 @@ PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent.exe
 PROCESS-NAME,Resilio Sync
 PROCESS-NAME,/Applications/Resilio Sync.app/Contents/MacOS/Resilio Sync
+DOMAIN-SUFFIX,mypikpak.com

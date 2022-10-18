@@ -1,3 +1,7 @@
+# rosefile
+DOMAIN-SUFFIX,rosefile.net
+DOMAIN-SUFFIX,rose29.top
+DOMAIN-SUFFIX,down-node.com
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
@@ -65,6 +69,9 @@ DOMAIN-SUFFIX,sentry.io
 # Deezer
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
+# Digitalconcerthall
+DOMAIN-SUFFIX,digitalconcerthall.com
+DOMAIN,world-vod.dchdns.net
 # DiscoveryPlus
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discovery.com
