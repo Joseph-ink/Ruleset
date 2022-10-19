@@ -3866,7 +3866,6 @@ payload:
   - '+.arcgisonline.com'
   - '+.archive.is'
   - '+.archive.istio.io'
-  - '+.archive.org'
   - '+.archive.today'
   - '+.archiveofourown.com'
   - '+.archiveofourown.me'
