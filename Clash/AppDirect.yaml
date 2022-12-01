@@ -4,7 +4,6 @@ payload:
   - PROCESS-NAME,BaiduNetdisk_mac
   - PROCESS-NAME,DAEMON Tools
   - PROCESS-NAME,DAEMONToolsService
-  - PROCESS-NAME,FinalShell
   - PROCESS-NAME,Folx
   - PROCESS-NAME,leaf
   - PROCESS-NAME,leaf.exe
