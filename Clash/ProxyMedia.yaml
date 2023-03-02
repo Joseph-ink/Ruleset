@@ -1,4 +1,6 @@
 payload:
+# AI model
+  - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN-SUFFIX,civitai.com
   - DOMAIN-SUFFIX,huggingface.co
 # INTERNET ARCHIVE
