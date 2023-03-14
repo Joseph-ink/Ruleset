@@ -1,4 +1,6 @@
 payload:
+# Pikpak
+  - DOMAIN-SUFFIX,mypikpak.com
 # AI model
   - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN-SUFFIX,civitai.com
