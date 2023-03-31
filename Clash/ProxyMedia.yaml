@@ -1,4 +1,6 @@
 payload:
+# trex iptv
+  - DOMAIN-SUFFIX,line.premiumpowers.net
 # Pikpak
   - DOMAIN-SUFFIX,mypikpak.com
 # AI model
