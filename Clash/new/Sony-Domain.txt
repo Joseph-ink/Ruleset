@@ -1,0 +1,6 @@
+# comment
++.playstation.com
++.playstation.net
++.playstationnetwork.com
++.sony.com
++.sonyentertainmentnetwork.com
