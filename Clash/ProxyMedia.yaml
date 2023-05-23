@@ -1,18 +1,4 @@
 payload:
-# trex iptv
-  - DOMAIN-SUFFIX,line.premiumpowers.net
-# Pikpak
-  - DOMAIN-SUFFIX,mypikpak.com
-# AI model
-  - DOMAIN-SUFFIX,cloudflarestorage.com
-  - DOMAIN-SUFFIX,civitai.com
-  - DOMAIN-SUFFIX,huggingface.co
-# INTERNET ARCHIVE
-  - DOMAIN-SUFFIX,archive.org
-# rosefile
-  - DOMAIN-SUFFIX,rosefile.net
-  - DOMAIN-SUFFIX,rose29.top
-  - DOMAIN-SUFFIX,down-node.com
 # ABC
   - DOMAIN-SUFFIX,edgedatg.com
   - DOMAIN-SUFFIX,go.com
