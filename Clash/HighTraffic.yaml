@@ -1,4 +1,6 @@
 payload:
+# MisakaF emby
+  - DOMAIN-SUFFIX,misakaf.org
 # trex iptv
   - DOMAIN-SUFFIX,line.premiumpowers.net
 # Pikpak
