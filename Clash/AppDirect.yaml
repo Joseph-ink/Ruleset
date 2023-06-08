@@ -30,6 +30,7 @@ payload:
   - PROCESS-NAME,trojan-go
   - PROCESS-NAME,trojan-go.exe
   - PROCESS-NAME,trojan.exe
+  - PROCESS-NAME,tuic
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,v2ray.exe
   - PROCESS-NAME,xray
