@@ -22,3 +22,4 @@ payload:
   - IP-CIDR6,2001:b28:f23f::/48,no-resolve
   - IP-CIDR6,2a0a:f280:203::/48,no-resolve
   - PROCESS-NAME,nekox.messenger
+  - PROCESS-NAME,telegram
