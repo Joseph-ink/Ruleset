@@ -4,6 +4,7 @@ payload:
 # trex iptv
   - DOMAIN-SUFFIX,line.premiumpowers.net
 # Pikpak
+  - DOMAIN-KEYWORD,pikpak
   - DOMAIN-SUFFIX,mypikpak.com
 # AI model
   - DOMAIN-SUFFIX,cloudflarestorage.com
