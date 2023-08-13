@@ -1,19 +1,32 @@
 payload:
+  - PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/Frameworks/BaiduNetdisk_mac Helper.app/Contents/MacOS/BaiduNetdisk_mac Helper
+  - PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/MacOS/BaiduNetdisk_mac
+  - PROCESS-NAME,/Applications/Microsoft Remote Desktop.app/Contents/MacOS/Microsoft Remote Desktop
+  - PROCESS-NAME,/Applications/Thunder.app/Contents/MacOS/Thunder
   - PROCESS-NAME,aria2c
   - PROCESS-NAME,aria2c.exe
   - PROCESS-NAME,BaiduNetdisk_mac
+  - PROCESS-NAME,BitComet.exe
   - PROCESS-NAME,DAEMON Tools
   - PROCESS-NAME,DAEMONToolsService
+  - PROCESS-NAME,DownloadService
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,fdm.exe
+  - PROCESS-NAME,FinalShell
   - PROCESS-NAME,Folx
   - PROCESS-NAME,leaf
   - PROCESS-NAME,leaf.exe
   - PROCESS-NAME,Microsoft Remote Desktop
   - PROCESS-NAME,naive
   - PROCESS-NAME,naive.exe
+  - PROCESS-NAME,NetTransport
+  - PROCESS-NAME,NetTransport.exe
   - PROCESS-NAME,NutstoreJavaBE
   - PROCESS-NAME,ping
   - PROCESS-NAME,privoxy
   - PROCESS-NAME,privoxy.exe
+  - PROCESS-NAME,qBittorrent
+  - PROCESS-NAME,qbittorrent.exe
   - PROCESS-NAME,ss-local
   - PROCESS-NAME,ss-local.exe
   - PROCESS-NAME,Surge
@@ -26,12 +39,19 @@ payload:
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,ThunderVIP.exe
+  - PROCESS-NAME,Transmission
+  - PROCESS-NAME,transmission-daemon.exe
+  - PROCESS-NAME,transmission-qt.exe
   - PROCESS-NAME,trojan
   - PROCESS-NAME,trojan-go
   - PROCESS-NAME,trojan-go.exe
   - PROCESS-NAME,trojan.exe
   - PROCESS-NAME,tuic
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,v2ray.exe
+  - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,WebTorrent.exe
   - PROCESS-NAME,xray
   - PROCESS-NAME,xray.exe

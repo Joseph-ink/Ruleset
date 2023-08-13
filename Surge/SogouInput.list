@@ -1,0 +1,9 @@
+PROCESS-NAME,SogouInput
+PROCESS-NAME,SogouTaskManager
+PROCESS-NAME,SogouServices
+DOMAIN-SUFFIX,get.sogou.com
+DOMAIN-SUFFIX,shouji.sogou.com
+DOMAIN-SUFFIX,account.sogou.com
+DOMAIN-SUFFIX,pinyin.sogou.com
+DOMAIN-SUFFIX,ime.sogou.com
+DOMAIN-SUFFIX,macime.sogou.com

@@ -74,3 +74,11 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
+PROCESS-NAME,Visual Studio Code
+PROCESS-NAME,Code
+PROCESS-NAME,Code Helper
+PROCESS-NAME,Code Helper (Plugin)
+PROCESS-NAME,Visual Studio Code - Insiders
+PROCESS-NAME,Code - Insiders
+PROCESS-NAME,Code - Insiders Helper
+PROCESS-NAME,Code - Insiders Helper (Plugin)

@@ -1,8 +1,10 @@
+PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/Frameworks/BaiduNetdisk_mac Helper.app/Contents/MacOS/BaiduNetdisk_mac Helper
+PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/MacOS/BaiduNetdisk_mac
+PROCESS-NAME,/Applications/Microsoft Remote Desktop.app/Contents/MacOS/Microsoft Remote Desktop
+PROCESS-NAME,/Applications/Thunder.app/Contents/MacOS/Thunder
 PROCESS-NAME,aria2c
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,BaiduNetdisk_mac
-PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/Frameworks/BaiduNetdisk_mac Helper.app/Contents/MacOS/BaiduNetdisk_mac Helper
-PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/MacOS/BaiduNetdisk_mac
 PROCESS-NAME,BitComet.exe
 PROCESS-NAME,DAEMON Tools
 PROCESS-NAME,DAEMONToolsService
@@ -14,7 +16,6 @@ PROCESS-NAME,Folx
 PROCESS-NAME,leaf
 PROCESS-NAME,leaf.exe
 PROCESS-NAME,Microsoft Remote Desktop
-PROCESS-NAME,/Applications/Microsoft Remote Desktop.app/Contents/MacOS/Microsoft Remote Desktop
 PROCESS-NAME,naive
 PROCESS-NAME,naive.exe
 PROCESS-NAME,NetTransport
@@ -35,7 +36,6 @@ PROCESS-NAME,Surge%202
 PROCESS-NAME,Surge%203
 PROCESS-NAME,Surge%204
 PROCESS-NAME,Thunder
-PROCESS-NAME,/Applications/Thunder.app/Contents/MacOS/Thunder
 PROCESS-NAME,Thunder.exe
 PROCESS-NAME,ThunderVIP.exe
 PROCESS-NAME,Transmission
@@ -45,6 +45,7 @@ PROCESS-NAME,trojan
 PROCESS-NAME,trojan-go
 PROCESS-NAME,trojan-go.exe
 PROCESS-NAME,trojan.exe
+PROCESS-NAME,tuic
 PROCESS-NAME,uTorrent
 PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,v2ray

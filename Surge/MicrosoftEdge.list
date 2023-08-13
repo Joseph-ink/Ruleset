@@ -1,2 +1,4 @@
 PROCESS-NAME,/Applications/Microsoft Edge.app/Contents/Frameworks/Microsoft Edge Framework.framework/Versions/105.0.1343.33/Helpers/Microsoft Edge Helper.app/Contents/MacOS/Microsoft Edge Helper
 PROCESS-NAME,/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge
+PROCESS-NAME,Microsoft Edge Helper
+PROCESS-NAME,Microsoft Edge
