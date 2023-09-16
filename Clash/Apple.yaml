@@ -105,6 +105,7 @@ payload:
   - PROCESS-NAME,com.apple.geod
   - PROCESS-NAME,lookupviewservice
   - PROCESS-NAME,LookupViewService
+  - PROCESS-NAME,App Store
   - PROCESS-NAME,music
   - PROCESS-NAME,Music
   - PROCESS-NAME,news
