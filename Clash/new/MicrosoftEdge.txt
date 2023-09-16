@@ -1,3 +1,0 @@
-# comment
-PROCESS-NAME,Microsoft Edge Helper
-PROCESS-NAME,Microsoft Edge

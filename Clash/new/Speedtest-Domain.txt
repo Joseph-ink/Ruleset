@@ -1,5 +1,0 @@
-# comment
-+.speedtest.net
-+.fast.com
-+.ooklaserver.net
-+.speed.cloudflare.com

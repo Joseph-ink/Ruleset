@@ -14,6 +14,7 @@ payload:
   - PROCESS-NAME,fdm.exe
   - PROCESS-NAME,FinalShell
   - PROCESS-NAME,Folx
+  - PROCESS-NAME,hysteria
   - PROCESS-NAME,leaf
   - PROCESS-NAME,leaf.exe
   - PROCESS-NAME,Microsoft Remote Desktop
