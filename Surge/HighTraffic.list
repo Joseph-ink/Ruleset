@@ -1,5 +1,9 @@
 DOMAIN,emby2.misakaf.org 
 DOMAIN,cdn2.misakaf.org
+DOMAIN,stream1.misakaf.org
+DOMAIN,stream2.misakaf.org
+DOMAIN,stream3.misakaf.org
+DOMAIN,stream4.misakaf.org
 DOMAIN-SUFFIX,line.premiumpowers.net
 DOMAIN-KEYWORD,pikpak
 DOMAIN-SUFFIX,mypikpak.com
