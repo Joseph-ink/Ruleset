@@ -1,10 +1,7 @@
-PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/Frameworks/BaiduNetdisk_mac Helper.app/Contents/MacOS/BaiduNetdisk_mac Helper
-PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/MacOS/BaiduNetdisk_mac
-PROCESS-NAME,/Applications/Microsoft Remote Desktop.app/Contents/MacOS/Microsoft Remote Desktop
-PROCESS-NAME,/Applications/Thunder.app/Contents/MacOS/Thunder
 PROCESS-NAME,aria2c
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,BaiduNetdisk_mac Helper
 PROCESS-NAME,BitComet.exe
 PROCESS-NAME,DAEMON Tools
 PROCESS-NAME,DAEMONToolsService
@@ -13,6 +10,10 @@ PROCESS-NAME,fdm
 PROCESS-NAME,fdm.exe
 PROCESS-NAME,FinalShell
 PROCESS-NAME,Folx
+PROCESS-NAME,furious
+PROCESS-NAME,Furious
+PROCESS-NAME,furious-gui
+PROCESS-NAME,Furious-GUI
 PROCESS-NAME,leaf
 PROCESS-NAME,leaf.exe
 PROCESS-NAME,Microsoft Remote Desktop
@@ -28,10 +29,6 @@ PROCESS-NAME,qBittorrent
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,ss-local
 PROCESS-NAME,ss-local.exe
-PROCESS-NAME,Furious
-PROCESS-NAME,furious
-PROCESS-NAME,Furious-GUI
-PROCESS-NAME,furious-gui
 PROCESS-NAME,Surge
 PROCESS-NAME,Surge 2
 PROCESS-NAME,Surge 3
