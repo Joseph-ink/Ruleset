@@ -28,6 +28,10 @@ PROCESS-NAME,qBittorrent
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,ss-local
 PROCESS-NAME,ss-local.exe
+PROCESS-NAME,Furious
+PROCESS-NAME,furious
+PROCESS-NAME,Furious-GUI
+PROCESS-NAME,furious-gui
 PROCESS-NAME,Surge
 PROCESS-NAME,Surge 2
 PROCESS-NAME,Surge 3
