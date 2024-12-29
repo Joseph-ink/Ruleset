@@ -4,3 +4,5 @@ PROCESS-NAME,ChatGPT
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-KEYWORD,chatgpt
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,servd-anthropic-website.b-cdn.net
