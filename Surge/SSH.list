@@ -4,3 +4,5 @@ PROCESS-NAME,ServerCat
 PROCESS-NAME,Termius
 PROCESS-NAME,Termius Helper
 PROCESS-NAME,Termius Helper (Renderer)
+PROCESS-NAME,electerm
+PROCESS-NAME,electerm Helper
