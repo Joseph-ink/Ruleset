@@ -1,6 +1,9 @@
 DOMAIN-KEYWORD,icoudo
 DOMAIN-KEYWORD,smp-device
 DOMAIN-KEYWORD,testflight
+DOMAIN-KEYWORD,apple-relay
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akamaiedge.net
