@@ -41,6 +41,8 @@ PROCESS-NAME,Surge%204
 PROCESS-NAME,Thunder
 PROCESS-NAME,Thunder.exe
 PROCESS-NAME,ThunderVIP.exe
+PROCESS-NAME,ToDesk
+PROCESS-NAME,ToDesk_Service
 PROCESS-NAME,Transmission
 PROCESS-NAME,transmission-daemon.exe
 PROCESS-NAME,transmission-qt.exe
