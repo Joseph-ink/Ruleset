@@ -1,20 +1,30 @@
 payload:
-  - PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/Frameworks/BaiduNetdisk_mac Helper.app/Contents/MacOS/BaiduNetdisk_mac Helper
-  - PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/MacOS/BaiduNetdisk_mac
-  - PROCESS-NAME,/Applications/Microsoft Remote Desktop.app/Contents/MacOS/Microsoft Remote Desktop
-  - PROCESS-NAME,/Applications/Thunder.app/Contents/MacOS/Thunder
+  - PROCESS-NAME,同花顺
+  - PROCESS-NAME,小米互联服务
   - PROCESS-NAME,aria2c
   - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,AweSun
+  - PROCESS-NAME,AweSun_Desktop
   - PROCESS-NAME,BaiduNetdisk_mac
+  - PROCESS-NAME,BaiduNetdisk_mac Helper
   - PROCESS-NAME,BitComet.exe
   - PROCESS-NAME,DAEMON Tools
   - PROCESS-NAME,DAEMONToolsService
+  - PROCESS-NAME,DingTalk
   - PROCESS-NAME,DownloadService
   - PROCESS-NAME,fdm
   - PROCESS-NAME,fdm.exe
+  - PROCESS-NAME,Feishu
   - PROCESS-NAME,FinalShell
   - PROCESS-NAME,Folx
+  - PROCESS-NAME,foxray
+  - PROCESS-NAME,FoXray
+  - PROCESS-NAME,furious
+  - PROCESS-NAME,Furious
+  - PROCESS-NAME,furious-gui
+  - PROCESS-NAME,Furious-GUI
   - PROCESS-NAME,hysteria
+  - PROCESS-NAME,Lark Helper
   - PROCESS-NAME,leaf
   - PROCESS-NAME,leaf.exe
   - PROCESS-NAME,Microsoft Remote Desktop
@@ -28,6 +38,8 @@ payload:
   - PROCESS-NAME,privoxy.exe
   - PROCESS-NAME,qBittorrent
   - PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,QQ
+  - PROCESS-NAME,QQ Helper
   - PROCESS-NAME,ss-local
   - PROCESS-NAME,ss-local.exe
   - PROCESS-NAME,Surge
@@ -40,6 +52,8 @@ payload:
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,ThunderVIP.exe
+  - PROCESS-NAME,ToDesk
+  - PROCESS-NAME,ToDesk_Service
   - PROCESS-NAME,Transmission
   - PROCESS-NAME,transmission-daemon.exe
   - PROCESS-NAME,transmission-qt.exe
@@ -52,7 +66,11 @@ payload:
   - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,v2ray.exe
+  - PROCESS-NAME,v2rayN
   - PROCESS-NAME,WebTorrent
   - PROCESS-NAME,WebTorrent.exe
+  - PROCESS-NAME,WeChat
+  - PROCESS-NAME,WeChatAppEx Helper
+  - PROCESS-NAME,Weixin.exe
   - PROCESS-NAME,xray
   - PROCESS-NAME,xray.exe
