@@ -1,7 +1,9 @@
 payload:
+    - PROCESS-NAME,electerm
+    - PROCESS-NAME,electerm Helper
     - PROCESS-NAME,FinalShell
-    - PROCESS-NAME,st
     - PROCESS-NAME,ServerCat
+    - PROCESS-NAME,st
     - PROCESS-NAME,Termius
     - PROCESS-NAME,Termius Helper
     - PROCESS-NAME,Termius Helper (Renderer)
