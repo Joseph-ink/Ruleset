@@ -1,4 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
   - PROCESS-NAME,ChatGPT
+  - PROCESS-NAME,codex
+  - PROCESS-NAME,Codex Helper
